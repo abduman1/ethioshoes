@@ -1,0 +1,72 @@
+body{
+    background-color: burlywood;
+    background-image: url(pexels-stephan-seeber-1054218.jpg);
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+header{
+    margin-left: auto;
+    margin-right: auto;
+
+    height: 100px;
+    width: 800px;
+    text-align: center;
+
+
+    
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.17);
+    height: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+main{
+    height: 400px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    height: 100px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    padding-left: 100px;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+}
+p{
+    text-align: center;
+    font-size: 40px;
+}
+div{
+    font-size: medium;
+    padding-left: 250px;
+    text-decoration: underline;
+    
+}
+button{
+    font-size: 50PX;
+    
+}
